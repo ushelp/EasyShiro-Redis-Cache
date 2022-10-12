@@ -46,7 +46,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<slf4j.version>1.7.5</slf4j.version>
 		<!-- Shrio -->
-		<shiro.version>1.2.6</shiro.version>
+		<shiro.version>1.10.0</shiro.version>
 		<!-- Redis -->
 		<spring.data.redis.version>1.8.9.RELEASE</spring.data.redis.version>
 		<jedis.version>2.9.0</jedis.version>
